@@ -1,0 +1,26 @@
+html body {
+    background-image: url(./assets/back.jpg);
+    background-size: contain;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.container {
+    max-width: 900px;
+}
+
+#imagen-principal {
+    width: 400;
+}
+
+.creditos {
+    text-decoration: none;
+    color: black;
+}
+
+#Label {
+    font-size: xxx-large
+}
